@@ -24,6 +24,12 @@ CMakeScripts
 Makefile
 cmake_install.cmake
 install_manifest.txt
+compile_commands.json
+
+# Local source build and editor artifacts
+/source/_deps/
+/source/.cache/
+/source/libktx.a
 
 # Roslyn cache directories
 *.ide/
