@@ -55,6 +55,7 @@
             shader-slang
             sdl3
             glm
+            renderdoc
           ];
 
           VULKAN_SDK = "${vulkanSdk}";
